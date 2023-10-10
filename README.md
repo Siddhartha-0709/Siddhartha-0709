@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Mukherjee</h1>
-<h3 align="center">A passionate software developer from India, who aims to architect the world of Programming with Lines of Code.</h3>
+<h3 align="center">A passionate software developer, who aims to architect the world of Programming with Lines of Code.</h3>
 
 - 🔭 I’m currently working on **Retrix**
 
