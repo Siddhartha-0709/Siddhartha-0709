@@ -1,11 +1,11 @@
 <h1 align="center">Siddhartha Mukherjee</h1>
-<h3 align="center">Cloud Architect | DevOps | Backend Engineering</h3>
+<h3 align="center">Full Stack | Cloud Architect | DevOps | Backend Engineering</h3>
 
 ---
 
 ## Summary
 
-Cloud Architect at a **Big4 consulting firm** with experience in designing, deploying, and operating cloud-native systems. Strong background in backend engineering with hands-on exposure to containerization, Kubernetes, and DevOps workflows. Comfortable working across development and infrastructure teams to deliver scalable and reliable platforms.
+Cloud Architect at an multi-national tech consultancy firm with experience in designing, deploying, and operating cloud-native systems. Strong background in backend engineering with hands-on exposure to containerization, Kubernetes, and DevOps workflows. Comfortable working across development and infrastructure teams to deliver scalable and reliable platforms.
 
 ---
 
@@ -54,14 +54,6 @@ Cloud Architect at a **Big4 consulting firm** with experience in designing, depl
 ## Profiles
 
 - LinkedIn: https://linkedin.com/in/sidd-myself  
-- GitHub: https://github.com/Siddhartha-0709  
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Siddhartha-0709&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha-0709&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-0709&theme=dark&layout=compact)
-
+- GitHub: https://github.com/Siddhartha-0709
+  
 ---
